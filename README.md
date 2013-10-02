@@ -1,1 +1,1 @@
-![equation](http://latex.codecogs.com/gif.latex?\sin(x))
+![equation](http://latex.codecogs.com/gif.latex?%5Csin%28x%29)
